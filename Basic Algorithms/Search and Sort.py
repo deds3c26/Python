@@ -16,4 +16,3 @@ print("The Elements are: ",item)
 '''Sorting'''        
 item.sort()
 print("The Sorted Elements are: ",item)
-
